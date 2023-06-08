@@ -1,0 +1,608 @@
+
+
+
+MXairfoil:this is thread 4
+ result folder:C:/Users/106/Desktop/EnglishMulu/testCDA18/testCDA1/jieguo
+ matlab location:C:/Users/106/Desktop/EnglishMulu/MXairfoilCDA8
+***********************
+Running time out
+***********************
+
+Fri Aug  6 02:58:02 2021
+
+
+
+MXairfoil:this is thread 1
+ result folder:C:/Users/106/Desktop/EnglishMulu/testCDA15/testCDA1/jieguo
+ matlab location:C:/Users/106/Desktop/EnglishMulu/MXairfoilCDA5
+***********************
+Running time out
+***********************
+
+Fri Aug  6 02:59:54 2021
+
+
+
+MXairfoil:this is thread 3
+ result folder:C:/Users/106/Desktop/EnglishMulu/testCDA17/testCDA1/jieguo
+ matlab location:C:/Users/106/Desktop/EnglishMulu/MXairfoilCDA7
+***********************
+Running time out
+***********************
+
+Fri Aug  6 03:04:38 2021
+
+
+
+MXairfoil:this is thread 0
+ result folder:C:/Users/106/Desktop/EnglishMulu/testCDA14/testCDA1/jieguo
+ matlab location:C:/Users/106/Desktop/EnglishMulu/MXairfoilCDA4
+***********************
+Running time out
+***********************
+
+Fri Aug  6 03:08:12 2021
+
+
+
+MXairfoil:this is thread 7
+ result folder:C:/Users/106/Desktop/EnglishMulu/testCDA111/testCDA1/jieguo
+ matlab location:C:/Users/106/Desktop/EnglishMulu/MXairfoilCDA11
+***********************
+Running time out
+***********************
+
+Fri Aug  6 03:22:40 2021
+
+
+
+MXairfoil:this is thread 6
+ result folder:C:/Users/106/Desktop/EnglishMulu/testCDA110/testCDA1/jieguo
+ matlab location:C:/Users/106/Desktop/EnglishMulu/MXairfoilCDA10
+***********************
+Running time out
+***********************
+
+Fri Aug  6 03:23:39 2021
+
+
+
+MXairfoil:this is thread 10
+ result folder:C:/Users/106/Desktop/EnglishMulu/testCDA114/testCDA1/jieguo
+ matlab location:C:/Users/106/Desktop/EnglishMulu/MXairfoilCDA14
+***********************
+Running time out
+***********************
+
+Fri Aug  6 03:28:37 2021
+
+
+
+MXairfoil:this is thread 5
+ result folder:C:/Users/106/Desktop/EnglishMulu/testCDA19/testCDA1/jieguo
+ matlab location:C:/Users/106/Desktop/EnglishMulu/MXairfoilCDA9
+***********************
+Running time out
+***********************
+
+Fri Aug  6 03:33:54 2021
+
+
+
+MXairfoil:this is thread 3
+ result folder:C:/Users/106/Desktop/EnglishMulu/testCDA17/testCDA1/jieguo
+ matlab location:C:/Users/106/Desktop/EnglishMulu/MXairfoilCDA7
+***********************
+Running time out
+***********************
+
+Fri Aug  6 04:19:17 2021
+MXairfoil: there must be something wrong in prepared data
+ y1_gg_index = [[  8]
+ [ 42]
+ [123]
+ [146]
+ [158]
+ [221]
+ [251]
+ [289]
+ [410]]
+ y2_gg_index = [[  8]
+ [ 42]
+ [123]
+ [146]
+ [158]
+ [221]
+ [251]
+ [289]
+ [410]]
+ y3_gg_index = []
+problemable X is [[ 0.1096  0.396   0.156   0.3576]
+ [ 0.0488  0.9576  0.532   0.9672]
+ [ 0.9608  0.7592  0.4856  0.3112]
+ [ 0.4024  0.2168  0.7704  0.4008]
+ [ 0.8888  0.8968  0.3576  0.5384]
+ [ 0.772   0.9784  0.9192  0.1096]
+ [ 0.6168  0.116   0.4232  0.8936]
+ [ 0.0776  0.748   0.3944  0.7976]
+ [ 0.6584  0.8776  0.4808  0.7768]]
+Fri Aug  6 04:33:41 2021
+
+
+
+MXairfoil:this is thread 1
+ result folder:C:/Users/106/Desktop/EnglishMulu/testCDA15/testCDA1/jieguo
+ matlab location:C:/Users/106/Desktop/EnglishMulu/MXairfoilCDA5
+***********************
+Running time out
+***********************
+
+Fri Aug  6 09:09:08 2021
+MXairfoil: there must be something wrong in prepared data
+ y1_gg_index = [[15]]
+ y2_gg_index = [[15]]
+ y3_gg_index = []
+problemable X is [[ 0.69670794  0.28203597  0.72935971  0.12373369]]
+Fri Aug  6 09:43:12 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:30:58 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:30:58 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:30:58 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:31:01 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:31:01 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:31:01 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:31:04 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:31:04 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:31:04 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:31:10 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:31:10 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:31:10 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:31:22 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:31:22 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:31:22 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:31:42 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:31:42 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:31:42 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:31:54 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:31:54 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:31:54 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:32:23 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:32:23 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:32:23 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:32:42 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:32:42 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:32:42 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:32:52 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:32:52 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:32:52 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:32:54 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:32:54 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:32:54 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:32:57 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:32:57 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:32:57 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:33:06 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:33:06 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:33:06 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:33:15 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:33:15 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:33:15 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:33:29 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:33:29 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:33:29 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:33:42 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:33:42 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:33:42 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:33:49 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:33:49 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:33:49 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:33:59 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:33:59 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:33:59 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:34:18 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:34:18 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:34:18 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:34:22 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:34:22 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:34:22 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:34:37 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:34:37 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:34:37 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:34:47 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:34:47 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:34:47 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:34:55 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:34:55 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:34:55 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:35:02 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:35:02 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:35:02 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:35:06 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:35:06 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:35:06 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:35:08 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:35:08 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:35:08 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:35:26 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:35:26 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:35:26 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:35:31 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:35:31 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:35:31 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:35:38 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:35:38 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:35:38 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:35:41 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:35:41 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:35:41 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:35:48 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:35:48 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:35:48 2021
+
+
+
+MXairfoil:this is thread 6
+ result folder:C:/Users/106/Desktop/EnglishMulu/testCDA17/testCDA1/jieguo
+ matlab location:C:/Users/106/Desktop/EnglishMulu/MXairfoilCDA7
+***********************
+Running time out
+***********************
+
+Fri Aug  6 10:36:11 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:36:12 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:36:12 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:36:12 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:36:25 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:36:25 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:36:25 2021
+
+
+
+MXairfoil:this is thread 7
+ result folder:C:/Users/106/Desktop/EnglishMulu/testCDA18/testCDA1/jieguo
+ matlab location:C:/Users/106/Desktop/EnglishMulu/MXairfoilCDA8
+***********************
+Running time out
+***********************
+
+Fri Aug  6 10:36:34 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:36:42 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:36:42 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:36:42 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:36:54 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:36:54 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:36:54 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:37:04 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:37:04 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:37:04 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:37:10 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:37:10 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:37:10 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:37:13 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:37:13 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:37:13 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:37:20 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:37:20 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:37:20 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:37:23 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:37:23 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:37:23 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:37:42 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:37:42 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:37:42 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:37:43 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:37:43 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:37:43 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:37:47 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:37:47 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:37:47 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:37:50 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:37:50 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:37:50 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:37:56 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:37:56 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:37:56 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:38:15 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:38:15 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:38:15 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:38:25 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:38:25 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:38:25 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:38:39 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:38:39 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:38:39 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:38:49 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:38:49 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:38:49 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:39:10 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:39:10 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:39:10 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:39:11 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:39:11 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:39:11 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:39:22 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:39:22 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:39:22 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:39:22 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:39:23 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:39:23 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:39:23 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:39:42 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:39:42 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:39:42 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:39:46 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:39:46 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:39:46 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:39:47 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:39:47 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:39:47 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:39:48 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:39:48 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:39:48 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:39:50 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:39:50 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:39:50 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:40:17 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:40:17 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:40:17 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:40:29 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:40:29 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:40:29 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:40:38 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:40:38 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:40:38 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:40:53 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:40:53 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:40:53 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:41:02 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:41:02 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:41:02 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:41:20 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:41:20 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:41:20 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:41:27 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:41:27 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:41:27 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:41:39 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:41:39 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:41:39 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:41:42 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:41:42 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:41:42 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:41:51 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:41:51 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:41:51 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:42:01 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:42:01 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:42:01 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:42:18 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:42:18 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:42:18 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:42:43 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:42:43 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:42:43 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:42:50 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:42:50 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:42:50 2021
+MXairfoil : matlab time out. last step are used for continue. sec_timeout = 59
+Fri Aug  6 10:43:06 2021
+MXairfoil: no need to continue calling CFView for something wrong before.
+Fri Aug  6 10:43:06 2021
+MXairfoil: no need to continue calling get_value for something wrong before. pause
+Fri Aug  6 10:43:06 2021

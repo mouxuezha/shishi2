@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<Computation name="C:\Users\y\Desktop\EnglishMulu\testCDA11\testCDA1\testCDA1_computation_1\testCDA1_computation_1.run">
+<MeshData>
+<integer name="Number of blocks">1</integer>
+<integer name="Total number of nodes">42282</integer>
+</MeshData>
+<FluidProperties>
+<string name="Fluid type">Perfect gas</string>
+<float name="Specific heat (Cp)" unit="[J/(kg K)]">1006</float>
+<float name="Specific heat ratio">1.40000</float>
+</FluidProperties>
+<WeightFactorsForAveraging>
+<string name="For static pressure">cell face area</string>
+<string name="For all other variables">absolute cell face mass flux</string>
+</WeightFactorsForAveraging>
+<Station name="Inlet">
+<GeometricalData>
+<float name="Hub radius" unit="[m]">0.09847974</float>
+<float name="Shroud radius" unit="[m]">0.110366</float>
+<float name="Area" unit="[m2]">0.000762</float>
+</GeometricalData>
+<Velocity name="Velocities">
+<float name="X-component of velocity" unit="[m/s]">69.21065</float>
+<float name="Y-component of velocity" unit="[m/s]">54.27549</float>
+<float name="Z-component of velocity" unit="[m/s]">0</float>
+<float name="Velocity magnitude" unit="[m/s]">90.21721</float>
+<float name="Mach number">0.26414</float>
+</Velocity>
+<Condition name="Static conditions">
+<float name="Static pressure" unit="[Pa]">99471.77</float>
+<float name="Static temperature" unit="[K]">289.9056</float>
+<float name="Density" unit="[kg/m3]">1.192499</float>
+</Condition>
+<Condition name="Total conditions">
+<float name="Absolute total pressure" unit="[Pa]">104364.8</float>
+<float name="Absolute total temperature" unit="[K]">294</float>
+</Condition>
+<MassFlow>
+<float name="Mass flow" unit="[kg/s]">0.05969215</float>
+</MassFlow>
+</Station>
+<Station name="Outlet">
+<GeometricalData>
+<float name="Hub radius" unit="[m]">0.224133</float>
+<float name="Shroud radius" unit="[m]">0.2468913</float>
+<float name="Area" unit="[m2]">0.000762</float>
+</GeometricalData>
+<Velocity name="Velocities">
+<float name="X-component of velocity" unit="[m/s]">66.06098</float>
+<float name="Y-component of velocity" unit="[m/s]">2.55363</float>
+<float name="Z-component of velocity" unit="[m/s]">0</float>
+<float name="Velocity magnitude" unit="[m/s]">66.1107</float>
+<float name="Mach number">0.19289</float>
+</Velocity>
+<Condition name="Static conditions">
+<float name="Static pressure" unit="[Pa]">101325</float>
+<float name="Static temperature" unit="[K]">291.914</float>
+<float name="Density" unit="[kg/m3]">1.207627</float>
+</Condition>
+<Condition name="Total conditions">
+<float name="Absolute total pressure" unit="[Pa]">104025.7</float>
+<float name="Absolute total temperature" unit="[K]">294.1147</float>
+</Condition>
+<MassFlow>
+<float name="Mass flow" unit="[kg/s]">0.05979112</float>
+</MassFlow>
+</Station>
+<Performance name="Global performance">
+<float name="Static pressure ratio">1.01863</float>
+<float name="Absolute total pressure ratio">0.99675</float>
+<float name="Static temperature ratio">1.00693</float>
+<float name="Absolute total temperature ratio">1.00039</float>
+<float name="Total pressure coefficient" desc="(p02-p2)/(p01-p2)">0.8884725</float>
+</Performance>
+<MassFlow name="Mass flow integrated on inlet groups">
+<float name="Block_1 Face_3 Patch_1">0.05969</float>
+</MassFlow>
+<MassFlow name="Mass flow integrated on outlet groups">
+<float name="Block_1 Face_4 Patch_1">0.05982</float>
+</MassFlow>
+</Computation>

@@ -1,0 +1,1 @@
+F:\NUMECA\Fine141\bin64\euranusdpx86_64.exe "C:\Users\y\Desktop\EnglishMulu\testCDA11\testCDA1\testCDA1_computation_1\testCDA1_computation_1.run" -steering "C:\Users\y\Desktop\EnglishMulu\testCDA11\testCDA1\testCDA1_computation_1\testCDA1_computation_1.steering" -niversion "141" -seq  -batch 

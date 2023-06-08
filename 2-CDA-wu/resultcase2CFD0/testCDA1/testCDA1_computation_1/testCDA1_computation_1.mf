@@ -1,0 +1,87 @@
+ 
+PROJECT NAME :   C:\Users\y\Desktop\EnglishMulu\testCDA11\testCDA1\testCDA1_computation_1\testCDA1_computation_1.run
+ 
+ Mesh data   
+ ---------   
+ 
+  Number_of_blocks                      1
+  Total_number_of_nodes             42282
+ 
+ Fluid properties  
+ ----------------  
+ 
+  Fluid_type                     Perfect gas    
+ 
+  Specific_heat (Cp)               1006.0         [J/(kg K)]
+  Specific_heat_ratio              1.4000         [  ]
+ 
+ Weight factors used for averaging 
+ --------------------------------- 
+ 
+  For static pressure                    cell face area 
+  For all other variables                absolute cell face mass flux 
+ 
+ 
+ *********************************************************************
+ *                                                                   *
+ * GLOBAL RESULTS AT INLET AND OUTLET                                *
+ *                                                                   *
+ *********************************************************************
+ 
+ 
+                                           INLET              OUTLET 
+ Geometrical data  
+ ----------------  
+ 
+  Area                                   0.76200E-03         0.76200E-03   [m2]
+ 
+ 
+ Velocities  
+ ----------  
+ 
+  X-component_of_velocity        69.098              66.014       [m/s]
+  Y-component_of_velocity        54.219              4.3143       [m/s]
+  Z-component_of_velocity        0.0000              0.0000       [m/s]
+  Velocity_magnitude             90.091              66.156       [m/s]
+  Mach_number                   0.26376             0.19302        [   ]
+ 
+ Static conditions 
+ ----------------- 
+ 
+  Static_pressure                          99485.26           101325.00    [Pa]
+  Static_temperature                      289.92              291.91       [K]
+  Density                                 1.1926              1.2076       [kg/m3]
+ 
+ Total conditions 
+ ---------------- 
+ 
+  Absolute_total_pressure                 104364.75           104027.95    [Pa]
+  Absolute_total_temperature              294.00              294.12       [K]
+ 
+ Mass flow  
+ ---------  
+ 
+  Mass_flow                               5.9598              5.9809       [kg/s/m]
+ 
+ Global performance 
+ ------------------ 
+ 
+  Static_pressure_ratio                          1.0185    
+  Absolute_total_pressure_ratio                 0.99677    
+ 
+  Static_temperature_ratio                       1.0069    
+  Absolute_total_temperature_ratio               1.0004    
+ 
+  Total_pressure_coefficient                       0.88920     (p02-p2)/(p01-p2)
+ 
+ *********************************************************************
+ *
+ *  MASSFLOW INTEGRATED ON INLET/OUTLET GROUPS                       *
+ *
+ *********************************************************************
+ INLET GROUPS:
+ *************
+Block_1 Face_3 Patch_1      0.59601E-01
+ OUTLET GROUPS:
+ **************
+Block_1 Face_4 Patch_1      0.59789E-01
